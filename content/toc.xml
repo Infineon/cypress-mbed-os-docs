@@ -1,0 +1,8 @@
+<toc label="Cypress Mbed OS Documentation" topic="index.html">
+  <topic label="Getting Started with PSoC 6 MCU and CYW43xxx in Mbed OS" href="1_getting_started.html">
+    <topic label="1.&amp;nbsp;&amp;nbsp;PSoC 6 MCU and CYW43xxx (CYW43012, CYW4343W) Devices Overview" href="1_getting_started.html#device_overview"/>
+    <topic label="2.&amp;nbsp;&amp;nbsp;Getting Started with Mbed OS Applications" href="1_getting_started.html#getting_started_mbed_os"/>
+    <topic label="3.&amp;nbsp;&amp;nbsp;ModusToolbox and Mbed OS" href="1_getting_started.html#mtb_and_mbed_os"/>
+    <topic label="4.&amp;nbsp;&amp;nbsp;Technical Resources" href="1_getting_started.html#technical_resources"/>
+  </topic>
+</toc>
