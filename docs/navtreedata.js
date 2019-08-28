@@ -23,18 +23,22 @@ for the JavaScript code in this file
 */
 var NAVTREE =
 [
-  
     [ "Getting Started with PSoC 6 MCU and CYW43xxx in Mbed OS", "1_getting_started.html", [
       [ "1.  PSoC 6 MCU and CYW43xxx (CYW43012, CYW4343W) Devices Overview", "1_getting_started.html#device_overview", null ],
       [ "2.  Getting Started with Mbed OS Applications", "1_getting_started.html#getting_started_mbed_os", null ],
       [ "3.  ModusToolbox and Mbed OS", "1_getting_started.html#mtb_and_mbed_os", null ],
       [ "4.  Technical Resources", "1_getting_started.html#technical_resources", null ]
+    ] ],
+    [ "Cypress Firmware Deliverables in Mbed OS", "2_cypress_fw_deliverables.html", [
+      [ "1.  Hardware Abstraction Layer (HAL)", "2_cypress_fw_deliverables.html#hal", null ],
+      [ "2.  Board Support Package", "2_cypress_fw_deliverables.html#bsp", null ],
+      [ "3.  Wi-Fi and BLE Implementation", "2_cypress_fw_deliverables.html#wifi_ble", null ]
     ] ] 
 ];
 
 var NAVTREEINDEX =
 [
-"1_getting_started.html"
+".html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
