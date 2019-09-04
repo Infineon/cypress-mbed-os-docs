@@ -362,7 +362,7 @@ function showNode(o, node, index, hash)
       node.plus_img.innerHTML = arrowDown;
       node.expanded = true;
       var n = node.children[o.breadcrumbs[index]];
-      if (index+1<o.breadcrumbs.length) {
+      if (index+1 <= o.breadcrumbs.length) {
         showNode(o,n,index+1,hash);
       } else {
         if (typeof(n.childrenData)==='string') {
@@ -422,7 +422,7 @@ function gotoNode(o,subIndex,root,hash,relpath)
     $('.item').removeAttr('id');
   }
   if (o.breadcrumbs) {
-    o.breadcrumbs.unshift(0); // add 0 for root node
+    //o.breadcrumbs.unshift(0); // add 0 for root node
     showNode(o, o.node, 0, hash);
   }
 }

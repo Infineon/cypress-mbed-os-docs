@@ -38,7 +38,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-".html"
+"1_getting_started.html",
+"2_cypress_fw_deliverables.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
